@@ -9,7 +9,7 @@ Start with the following:
 4. Create Pull Request and add relevant colleagues
 
 ## Build and Test
-TODO: Describe and show how to build your code and run the tests.
+TODO: Describe and show how we build our code and run the tests
 
 ## SQL Databases Migration Strategies
 
