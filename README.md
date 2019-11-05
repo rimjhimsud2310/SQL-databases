@@ -15,7 +15,7 @@ TODO: Describe and show how we build our code and run the tests
 
 ### Assess
 
-* Discover and assess on-premises databases and infrastructure
+* Discover and assess on-premises databases and infrastructure (AzureMigration on-prem VM to be used, SARF in place for permissions)
 * Map dependencies
 * Prioritize databases for migration
 
