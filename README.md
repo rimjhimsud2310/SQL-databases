@@ -1,21 +1,15 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# SQL Databases Migration Introduction
+SQL Databases migration project repo
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-5.
+## Getting Started
+Start with the following:
+1. Clone repository. If you are getting error message: `SSL certificate problem: unable to get local issuer certificate` for a single repouse this: `git config http.sslVerify false` and for all: `git config --global http.sslVerify false` 
+2. Create your own branch via Git
+3. Commit your branch and push changes into Azure DevOps
+4. Create Pull Request and add relevant colleagues
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Build and Test
+TODO: Describe and show how to build your code and run the tests.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## SQL Databases Migration Strategies
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
