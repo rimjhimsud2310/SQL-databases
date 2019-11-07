@@ -56,6 +56,10 @@ TODO: Describe and show how we build our code and run the tests
 * E.g. moving from MongoDB to Cosmos DB
 * Apply [cloud-native technologies](https://docs.microsoft.com/en-gb/dotnet/architecture/modernize-with-azure-containers/modernize-existing-apps-to-cloud-optimized/what-about-cloud-native-applications)
 
+### Automate
+
+* Automate Database migration where possible with build and release pipelines on Azure DevOps
+
 ## Design for Data Availability and Resiliency
 
 ### Data Availability and Resiliency in Microsoft Azure
